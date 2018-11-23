@@ -14,9 +14,7 @@
         md4
         lg4
         offset-lg2
-        offset-xs0>
-        
-      </v-flex>
+        offset-xs0/>
     </v-layout>
   </v-content>
 </template>
