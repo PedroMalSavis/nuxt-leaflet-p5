@@ -4,7 +4,7 @@
   </v-content>
 </template>
 <script>
-import headlineView from '@/components/index/upperview'
+import headlineView from '@/components/index/tagline/upperview'
 export default {
   components: {
     headlineView
