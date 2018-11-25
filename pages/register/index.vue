@@ -1,13 +1,13 @@
 <template>
   <v-content>
-    <headline-view />
+    <mapimg/>
   </v-content>
 </template>
 <script>
-import headlineView from '@/components/index/upperview'
+import mapimg from '@/components/renderMap'
 export default {
   components: {
-    headlineView
+    mapimg
   }
 }
 </script>
